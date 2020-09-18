@@ -1,0 +1,206 @@
+#head {
+    height: 700px;
+    background-color: #5569DC;
+    
+}
+#menu{
+    padding-left:130px;
+    color:#FFFFFF;
+    font-family:playfair;
+    
+}
+#links a{
+    color:white;
+    text-decoration: none;
+}
+
+#links a:visited{
+    color:white;
+}
+
+#menu ul{
+    display: inline-flex;
+    list-style: none;
+    
+}
+#menu ul li{
+    padding:15px;
+    font-size: 20px;
+    font-style:italic;
+    
+}
+#innerdata{
+    text-align: center;
+}
+
+#data{
+    align-content: center;
+    color:#FFFFFF;
+    position: absolute;
+    right: 30px;
+    font-family:futrua-lt-w01-light,sans-serif;;
+    font-style: normal;
+}
+#head #data img {
+    position: relative;
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    right: -50px;
+    
+}
+#head img{
+    height: 615px;
+    width: 1000px;
+    position: relative;
+}
+#data2{
+    position: absolute;
+    color:white;
+    padding-top: 22%;
+    padding-left:8%;
+    font-weight: bold;
+    z-index: 1;
+}
+#head #data #links img{
+    height: 30px;
+    width: 30px;
+    top: 10px;
+    left: 5px;
+    
+}
+#aboutsection{
+    height:650px;
+    width: auto;
+    background-color: #EEF0FB;
+}
+
+#about{
+    position: absolute;
+    display: block;
+    color: #5569DC;
+    width: 75%;
+    position: relative;
+    top:70px;
+    left: 75px;
+    line-height: normal;
+    letter-spacing: normal;
+    font-weight: normal;
+    font-size: 40px;
+    font-family: playfair display,serif;
+    pointer-events: auto;
+}
+#abouttext{
+    font-size: 25px;
+    letter-spacing: 0.10em;
+    line-height: 1em;
+    color: #1C2349;
+}
+
+#Educationmain{
+    height: 700px;
+}
+#Education{
+    padding-top: 110px;
+    position: absolute;
+    font-size: 40px;
+    color: #5569DC;
+    display: inline;
+    left:15%;
+}
+#Experience{
+    
+    padding-top: 110px;
+    position: absolute;
+    font-size: 40px;
+    color: #5569DC;
+    display: inline;
+    left:55.5%;
+}
+
+#Skillsmain{
+    height: 850px;
+    
+
+}
+#skills{
+    
+    padding-top: 110px;
+    position: absolute;
+    color: #5569DC;
+    font-size: 40px;
+    left: 15%;
+}
+
+#Awardmain{
+    height: 500px;
+}
+#award{
+    padding-top: 110px;
+    position: absolute;
+    font-size: 40px;
+    color: #5569DC;
+    display: inline;
+    left:15%
+
+}
+
+#interest{
+    
+    padding-top: 110px;
+    position: absolute;
+    font-size: 40px;
+    color: #5569DC;
+    display: inline;
+    left:55%;
+}
+
+.data h6{
+    line-height: normal;
+    letter-spacing: normal;
+    color:#1c2349;
+    font:normal normal normal 18px/1.4em futura-lt-w01-book,sans-serif;
+}
+
+.data p{
+    line-height: 1.8em;
+    letter-spacing: normal;
+    font: normal normal normal 18px/1.4em futura-lt-w01-light,sans-serif;
+    color: #787C93;
+    vertical-align: baseline;
+}
+
+.data span{
+    line-height: 1.8em;
+    letter-spacing: normal;
+    font: normal normal normal 18px/1.4em futura-lt-w01-light,sans-serif;
+    color: #787C93;
+    vertical-align: baseline;
+}
+
+#footer{
+    height: 350px;
+    background-color:#EEF0FC;
+}
+
+#foot1{
+    width: 20%;
+    padding-top: 60px;
+    position: absolute;
+    font-size: 17px;
+    color:#272D52;
+    display: inline;
+    left:15%;
+    font-style: italic;
+}
+
+#foot2{
+    padding-top: 70px;
+    position: absolute;
+    font-size: 20px;
+    color:#1C2349;
+    display: inline;
+    left:55%;
+    font-family: futura-lt-w01-light,sans-serif;
+    font-style: italic;
+}
